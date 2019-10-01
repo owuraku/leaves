@@ -1,11 +1,33 @@
 {
-  leaves: [
-  {id: 1, type: 'annual leave', staffName: 'Tester One', startDate: '2019-10-15', endDate: '2019-10-20', duration: 4},
-  {id: 2, type: 'annual leave', staffName: 'Tester Two', startDate: '2019-10-18', endDate: '2019-10-20', duration: 2}
+  "leaves": [
+  {
+    "id": 1, 
+   "type": "annual leave", 
+   "staffName": "Tester One", 
+   "startDate": "2019-10-15", 
+   "endDate": "2019-10-20", 
+   "duration": 4
+  },
+  {
+    "id": 2, 
+    "type": "annual leave", 
+    "staffName": "Tester Two", 
+    "startDate": "2019-10-18", 
+    "endDate": "2019-10-20", 
+    "duration": 2
+  }
   ],
-  staff: [
-  {id: 1, firstname: 'Tester', lastName: 'One'},
-  {id: 2, firstname: 'Tester', lastName: 'Two'}
+  "staff": [
+  {
+    "id": 1, 
+    "firstname": "Tester", 
+    "lastName": "One"
+  },
+  {
+    "id": 2, 
+    "firstname": "Tester",
+    "lastName": "Two"
+  }
   ]
 
 }
